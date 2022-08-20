@@ -1,6 +1,6 @@
 def run():
-my_list = [1, "Hello", True, 4.5]
-my_dict = {"firstname": "Brandon", "lastname": "Muñoz" }
+    my_list = [1, "Hello", True, 4.5]
+    my_dict = {"firstname": "Brandon", "lastname": "Muñoz" }
 
 super_list = [
      {"firstname": "Brandon", "lastname": "Muñoz" },
@@ -21,4 +21,4 @@ for key, value in super_dict.items():
 
 
 if __name__ == '__main__':
-run() 
+    run()
